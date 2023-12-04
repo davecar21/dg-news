@@ -1,0 +1,39 @@
+.news-list-container{
+
+}
+
+.news-list-item{
+    display: flex;
+    margin-top: 20px;
+}
+
+.news-list-icon{
+    padding-right: 5px;
+}
+
+.news-list-date{
+    color: #777;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.news-list-title{
+    color: #181D2F;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.news-list-text{
+    color: #626262;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border-bottom: 1px solid #D1D1D1;
+    padding-bottom: 20px;
+}
